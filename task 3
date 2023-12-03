@@ -1,0 +1,293 @@
+<div style="width: 100%; height: 100%; position: relative; background-image: url(https://via.placeholder.com/510x902)">
+    <div style="width: 490px; height: 40px; left: 0px; top: 78px; position: absolute">
+        <div style="width: 406px; height: 40px; left: 0px; top: 0px; position: absolute; background: #FFB0B0; border-radius: 20px"></div>
+        <div style="width: 406px; height: 40px; left: 84px; top: 0px; position: absolute; text-align: center; color: #090909; font-size: 24px; font-family: Italiana; font-weight: 400; line-height: 43.28px; word-wrap: break-word">Search the dishes</div>
+        <div style="width: 24px; height: 24px; left: 13px; top: 6px; position: absolute"></div>
+        <div style="width: 25.50px; height: 20px; left: 19.12px; top: 10px; position: absolute; background: black"></div>
+    </div>
+    <div style="width: 39.66px; height: 36.68px; left: -656.65px; top: 168.24px; position: absolute">
+        <div style="width: 34.86px; height: 36.68px; left: 4.80px; top: 0px; position: absolute; background: #D9D9D9; border-radius: 52px"></div>
+        <img style="width: 34.86px; height: 18.67px; left: 4.80px; top: 0px; position: absolute" src="https://via.placeholder.com/35x19" />
+        <div style="width: 30.06px; height: 11.44px; left: 0px; top: 19.96px; position: absolute; text-align: center; color: #101010; font-size: 24px; font-family: Italiana; font-weight: 400; line-height: 43.28px; word-wrap: break-word">Italian Pasta<br/>@20 mins  </div>
+        <div style="width: 3.22px; height: 2.05px; left: 35.70px; top: 22.22px; position: absolute; background: #FF0000; border: 2px black solid"></div>
+        <div style="width: 7.20px; height: 4.10px; left: 31.82px; top: 21.15px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Istok Web; font-weight: 400; line-height: 43.28px; word-wrap: break-word">4.6</div>
+        <div style="width: 9.35px; height: 3.13px; left: 17.93px; top: 30.21px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.50); font-size: 24px; font-family: Istok Web; font-weight: 400; line-height: 43.28px; word-wrap: break-word">$4.00</div>
+    </div>
+    <div style="width: 213px; height: 265px; left: 0px; top: 150px; position: absolute">
+        <div style="width: 203.42px; height: 265px; left: 9.58px; top: -0px; position: absolute; background: #D9D9D9; border-radius: 52px"></div>
+        <div style="width: 14.72px; height: 14.80px; left: 138.56px; top: 176.15px; position: absolute; background: #FF0000; border: 2px black solid"></div>
+        <img style="width: 203.42px; height: 151.99px; left: 9.58px; top: 0.78px; position: absolute; border-radius: 52px" src="https://via.placeholder.com/203x152" />
+        <div style="width: 143.72px; height: 82.62px; left: 0px; top: 160.56px; position: absolute; text-align: center; color: black; font-size: 16px; font-family: Italiana; font-weight: 400; line-height: 28.85px; word-wrap: break-word">Tomato soup with manchurians <br/>@15 mins</div>
+        <div style="width: 47.91px; height: 22.60px; left: 153.30px; top: 168.35px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Istok Web; font-weight: 400; line-height: 43.28px; word-wrap: break-word">4.8</div>
+        <div style="width: 72.97px; height: 28.06px; left: 126.77px; top: 215.12px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Istok Web; font-weight: 400; line-height: 43.28px; word-wrap: break-word">$ 5.00</div>
+    </div>
+    <div style="width: 213px; height: 256px; left: 287px; top: 150px; position: absolute">
+        <div style="width: 213px; height: 256px; left: 0px; top: 0px; position: absolute; background: #D9D9D9; border-radius: 52px"></div>
+        <img style="width: 213px; height: 152.29px; left: 0px; top: 0px; position: absolute; border-radius: 52px" src="https://via.placeholder.com/213x152" />
+        <div style="width: 15.41px; height: 13.77px; left: 132.74px; top: 168.25px; position: absolute; background: #FF0000; border: 2px black solid"></div>
+        <div style="width: 76.40px; height: 26.11px; left: 121.94px; top: 208.14px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Istok Web; font-weight: 400; line-height: 43.28px; word-wrap: break-word">$ 5.00</div>
+        <div style="width: 34.73px; height: 31.18px; left: 155.12px; top: 161.72px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Istok Web; font-weight: 400; line-height: 43.28px; word-wrap: break-word">4.9</div>
+    </div>
+    <div style="width: 195.96px; height: 256px; left: 13.55px; top: 451px; position: absolute">
+        <div style="width: 195.96px; height: 256px; left: 0px; top: 0px; position: absolute; background: #D9D9D9; border-radius: 52px"></div>
+        <div style="width: 14.18px; height: 14.30px; left: 125.45px; top: 173px; position: absolute; background: #FF0000; border: 2px black solid"></div>
+        <div style="width: 70.29px; height: 32.38px; left: 125.45px; top: 164px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Istok Web; font-weight: 400; line-height: 43.28px; word-wrap: break-word">4.9</div>
+        <div style="width: 70.29px; height: 27.11px; left: 111.45px; top: 199px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Istok Web; font-weight: 400; line-height: 43.28px; word-wrap: break-word">$ 9.00</div>
+        <img style="width: 195.96px; height: 149.84px; left: 0px; top: 0px; position: absolute; border-radius: 52px" src="https://via.placeholder.com/196x150" />
+    </div>
+    <div style="width: 128px; height: 80px; left: 14px; top: 597px; position: absolute; text-align: center; color: black; font-size: 20px; font-family: Italiana; font-weight: 400; line-height: 36.06px; word-wrap: break-word">Mushroom biriyani<br/>@20 mins</div>
+    <div style="width: 128px; height: 80px; left: 287px; top: 318px; position: absolute; text-align: center; color: black; font-size: 20px; font-family: Italiana; font-weight: 400; line-height: 36.06px; word-wrap: break-word">Italian Pasta<br/>@20 mins</div>
+    <div style="width: 213px; height: 256px; left: 287px; top: 438px; position: absolute">
+        <div style="width: 213px; height: 256px; left: 0px; top: 0px; position: absolute">
+            <div style="width: 204.12px; height: 256px; left: 0px; top: 0px; position: absolute; background: #D9D9D9; border-radius: 52px"></div>
+            <div style="width: 98px; height: 85px; left: 18px; top: 143px; position: absolute; text-align: center; color: black; font-size: 20px; font-family: Italiana; font-weight: 400; line-height: 36.06px; word-wrap: break-word">Panner Kofta<br/>@40 mins</div>
+            <div style="width: 73.22px; height: 27.11px; left: 139.78px; top: 161.88px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Istok Web; font-weight: 400; line-height: 43.28px; word-wrap: break-word">4.8</div>
+            <img style="width: 204.12px; height: 149.08px; left: 0px; top: 0px; position: absolute; border-radius: 52px" src="https://via.placeholder.com/204x149" />
+            <div style="width: 14.79px; height: 14.31px; left: 132.39px; top: 167.90px; position: absolute; background: #FF0000; border: 1px black solid"></div>
+        </div>
+        <div style="width: 70px; height: 25.97px; left: 131px; top: 195.71px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Istok Web; font-weight: 400; line-height: 43.28px; word-wrap: break-word">$ 9.00</div>
+    </div>
+    <div style="width: 537px; height: 106px; left: -13px; top: 824px; position: absolute">
+        <div style="width: 537px; height: 106px; left: 0px; top: 0px; position: absolute; background: #FF6666; border-radius: 40px"></div>
+        <div style="width: 52.07px; height: 36.94px; left: 22.78px; top: 16.86px; position: absolute; background: black"></div>
+        <div style="width: 53.16px; height: 35.33px; left: 241.92px; top: 17.66px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="width: 53.16px; height: 35.33px"></div>
+            <div style="width: 35.44px; height: 0px; border: 2px black solid"></div>
+            <div style="width: 35.44px; height: 0px; border: 2px black solid"></div>
+            <div style="width: 35.44px; height: 0px; border: 2px black solid"></div>
+        </div>
+        <div style="width: 65.09px; height: 39.35px; left: 454.55px; top: 16.86px; position: absolute">
+            <div style="width: 51.53px; height: 32.79px; left: 6.78px; top: 3.28px; position: absolute; background: black"></div>
+        </div>
+    </div>
+    <div style="width: 510px; height: 35px; left: 0px; top: 748px; position: absolute; background: #D9D9D9"></div>
+    <div style="left: 16px; top: 748px; position: absolute; text-align: center; color: black; font-size: 20px; font-family: Italiana; font-weight: 400; line-height: 36.06px; word-wrap: break-word">All ||  breakfast|| lunch|| snacks||treats ||dessert || dinner</div>
+    <div style="width: 221px; height: 64px; left: -44px; top: 20px; position: absolute; text-align: center; color: #FD0000; font-size: 34px; font-family: JejuGothic; font-weight: 400; line-height: 61.31px; word-wrap: break-word">menu</div>
+    <div style="width: 50px; height: 49.17px; left: 442px; top: 10px; position: absolute; background: #FB9E9E"></div>
+</div>
+
+
+// Search the dishes
+color: #090909;
+ font-size: 24px;
+ font-family: Italiana;
+ font-weight: 400;
+ line-height: 43.28px;
+ word-wrap: break-word
+---
+// Italian Pasta<br/>@20 mins  
+color: #101010;
+ font-size: 24px;
+ font-family: Italiana;
+ font-weight: 400;
+ line-height: 43.28px;
+ word-wrap: break-word
+---
+// 4.6
+color: black;
+ font-size: 24px;
+ font-family: Istok Web;
+ font-weight: 400;
+ line-height: 43.28px;
+ word-wrap: break-word
+---
+// $4.00
+color: rgba(0, 0, 0, 0.50);
+ font-size: 24px;
+ font-family: Istok Web;
+ font-weight: 400;
+ line-height: 43.28px;
+ word-wrap: break-word
+---
+// Tomato soup with manchurians <br/>@15 mins
+color: black;
+ font-size: 16px;
+ font-family: Italiana;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// 4.8
+color: black;
+ font-size: 24px;
+ font-family: Istok Web;
+ font-weight: 400;
+ line-height: 43.28px;
+ word-wrap: break-word
+---
+// $ 5.00
+color: black;
+ font-size: 24px;
+ font-family: Istok Web;
+ font-weight: 400;
+ line-height: 43.28px;
+ word-wrap: break-word
+---
+// $ 5.00
+color: black;
+ font-size: 24px;
+ font-family: Istok Web;
+ font-weight: 400;
+ line-height: 43.28px;
+ word-wrap: break-word
+---
+// 4.9
+color: black;
+ font-size: 24px;
+ font-family: Istok Web;
+ font-weight: 400;
+ line-height: 43.28px;
+ word-wrap: break-word
+---
+// 4.9
+color: black;
+ font-size: 24px;
+ font-family: Istok Web;
+ font-weight: 400;
+ line-height: 43.28px;
+ word-wrap: break-word
+---
+// $ 9.00
+color: black;
+ font-size: 24px;
+ font-family: Istok Web;
+ font-weight: 400;
+ line-height: 43.28px;
+ word-wrap: break-word
+---
+// Mushroom biriyani<br/>@20 mins
+color: black;
+ font-size: 20px;
+ font-family: Italiana;
+ font-weight: 400;
+ line-height: 36.06px;
+ word-wrap: break-word
+---
+// Italian Pasta<br/>@20 mins
+color: black;
+ font-size: 20px;
+ font-family: Italiana;
+ font-weight: 400;
+ line-height: 36.06px;
+ word-wrap: break-word
+---
+// Panner Kofta<br/>@40 mins
+color: black;
+ font-size: 20px;
+ font-family: Italiana;
+ font-weight: 400;
+ line-height: 36.06px;
+ word-wrap: break-word
+---
+// 4.8
+color: black;
+ font-size: 24px;
+ font-family: Istok Web;
+ font-weight: 400;
+ line-height: 43.28px;
+ word-wrap: break-word
+---
+// $ 9.00
+color: black;
+ font-size: 24px;
+ font-family: Istok Web;
+ font-weight: 400;
+ line-height: 43.28px;
+ word-wrap: break-word
+---
+// All ||  breakfast|| lunch|| snacks||treats ||dessert || dinner
+color: black;
+ font-size: 20px;
+ font-family: Italiana;
+ font-weight: 400;
+ line-height: 36.06px;
+ word-wrap: break-word
+---
+// menu
+color: #FD0000;
+ font-size: 34px;
+ font-family: JejuGothic;
+ font-weight: 400;
+ line-height: 61.31px;
+ word-wrap: break-word
+
+
+<div style="width: 100%; height: 100%; position: relative; background-image: url(https://via.placeholder.com/510x902)">
+    <div style="width: 39.66px; height: 36.68px; left: -656.65px; top: 168.24px; position: absolute">
+        <div style="width: 34.86px; height: 36.68px; left: 4.80px; top: 0px; position: absolute; background: #D9D9D9; border-radius: 52px"></div>
+        <img style="width: 34.86px; height: 18.67px; left: 4.80px; top: 0px; position: absolute" src="https://via.placeholder.com/35x19" />
+        <div style="width: 30.06px; height: 11.44px; left: 0px; top: 19.96px; position: absolute; text-align: center; color: #101010; font-size: 24px; font-family: Italiana; font-weight: 400; line-height: 43.28px; word-wrap: break-word">Italian Pasta<br/>@20 mins  </div>
+        <div style="width: 3.22px; height: 2.05px; left: 35.70px; top: 22.22px; position: absolute; background: #FF0000; border: 2px black solid"></div>
+        <div style="width: 7.20px; height: 4.10px; left: 31.82px; top: 21.15px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Istok Web; font-weight: 400; line-height: 43.28px; word-wrap: break-word">4.6</div>
+        <div style="width: 9.35px; height: 3.13px; left: 17.93px; top: 30.21px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.50); font-size: 24px; font-family: Istok Web; font-weight: 400; line-height: 43.28px; word-wrap: break-word">$4.00</div>
+    </div>
+    <div style="width: 537px; height: 106px; left: -13px; top: 824px; position: absolute">
+        <div style="width: 537px; height: 106px; left: 0px; top: 0px; position: absolute; background: #FF6666; border-radius: 40px"></div>
+        <div style="width: 52.07px; height: 36.94px; left: 22.78px; top: 16.86px; position: absolute; background: black"></div>
+        <div style="width: 53.16px; height: 35.33px; left: 241.92px; top: 17.66px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div style="width: 53.16px; height: 35.33px"></div>
+            <div style="width: 35.44px; height: 0px; border: 2px black solid"></div>
+            <div style="width: 35.44px; height: 0px; border: 2px black solid"></div>
+            <div style="width: 35.44px; height: 0px; border: 2px black solid"></div>
+        </div>
+        <div style="width: 65.09px; height: 39.35px; left: 454.55px; top: 16.86px; position: absolute">
+            <div style="width: 51.53px; height: 32.79px; left: 6.78px; top: 3.28px; position: absolute; background: black"></div>
+        </div>
+    </div>
+    <div style="width: 510px; height: 329px; left: 0px; top: 395px; position: absolute; background: #D9D9D9; border-radius: 22px"></div>
+    <div style="width: 486px; height: 250px; left: -20px; top: 447px; position: absolute; text-align: center"><span style="color: black; font-size: 24px; font-family: Italiana; font-weight: 400; line-height: 43.28px; word-wrap: break-word">rasmallai @ 20 mins <br/></span><span style="color: black; font-size: 24px; font-family: Italiana; font-weight: 400; line-height: 43.28px; word-wrap: break-word">4.6  $ 24.00<br/>taste the delightful and sweety rasamllai with the taste of curd and dairy products </span></div>
+    <div style="width: 331px; height: 90px; left: 62px; top: 652px; position: absolute">
+        <div style="width: 331px; height: 72px; left: 0px; top: 0px; position: absolute; background: #FD0404; border-radius: 50px"></div>
+        <div style="width: 263px; height: 72px; left: 34px; top: 18px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Italiana; font-weight: 400; line-height: 43.28px; word-wrap: break-word">ORDER NOW</div>
+    </div>
+    <img style="width: 511px; height: 386px; left: -1px; top: -17px; position: absolute; border-radius: 52px" src="https://via.placeholder.com/511x386" />
+</div>
+
+
+// Italian Pasta<br/>@20 mins  
+color: #101010;
+ font-size: 24px;
+ font-family: Italiana;
+ font-weight: 400;
+ line-height: 43.28px;
+ word-wrap: break-word
+---
+// 4.6
+color: black;
+ font-size: 24px;
+ font-family: Istok Web;
+ font-weight: 400;
+ line-height: 43.28px;
+ word-wrap: break-word
+---
+// $4.00
+color: rgba(0, 0, 0, 0.50);
+ font-size: 24px;
+ font-family: Istok Web;
+ font-weight: 400;
+ line-height: 43.28px;
+ word-wrap: break-word
+---
+// rasmallai @ 20 mins <br/>
+color: black;
+ font-size: 24px;
+ font-family: Italiana;
+ font-weight: 400;
+ line-height: 43.28px;
+ word-wrap: break-word
+---
+// 4.6  $ 24.00<br/>taste the delightful and sweety rasamllai with the taste of curd and dairy products 
+color: black;
+ font-size: 24px;
+ font-family: Italiana;
+ font-weight: 400;
+ line-height: 43.28px;
+ word-wrap: break-word
+---
+// ORDER NOW
+color: black;
+ font-size: 24px;
+ font-family: Italiana;
+ font-weight: 400;
+ line-height: 43.28px;
+ word-wrap: break-word
