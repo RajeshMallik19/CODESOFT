@@ -91,6 +91,640 @@ color: rgba(0, 0, 0, 0.87);
 // Sign up
 color: rgba(0, 0, 0, 0.87);
  font-size: 20px;
+
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 36.06px;
+ word-wrap: break-word
+
+
+<div style="width: 100%; height: 100%; position: relative; background: white">
+    <div style="width: 400px; height: 180.50px; left: 0px; top: -12.50px; position: absolute; background: linear-gradient(180deg, #E74500 0%, #F5630D 19%, #FF6F06 54%)"></div>
+    <div style="width: 232px; height: 45px; left: -32px; top: 168px; position: absolute; text-align: center; color: #F86800; font-size: 30px; font-family: Inter; font-weight: 400; line-height: 54.10px; word-wrap: break-word">Sign up</div>
+    <div style="width: 382px; height: 60px; left: 10px; top: 235px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.87); font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">please register with email & sign up through our app</div>
+    <div style="width: 192px; height: 24px; left: 99px; top: 300px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.87); font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">Enter via social networks</div>
+    <div style="width: 310px; height: 24px; left: 35px; top: 847px; position: absolute; text-align: center"><span style="color: rgba(0, 0, 0, 0.87); font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">Already have an account ? </span><span style="color: #F5630D; font-size: 16px; font-family: Josefin Sans; font-weight: 700; line-height: 28.85px; word-wrap: break-word">Login <br/></span><span style="color: rgba(0, 0, 0, 0.87); font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word"><br/>Already have an account ? </span><span style="color: #E74500; font-size: 16px; font-family: Josefin Sans; font-weight: 700; line-height: 28.85px; word-wrap: break-word">Login </span></div>
+    <div style="width: 310px; height: 24px; left: 1332px; top: 636px; position: absolute; text-align: center"><span style="color: rgba(0, 0, 0, 0.87); font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">Already have an account ? </span><span style="color: #E74500; font-size: 16px; font-family: Josefin Sans; font-weight: 700; line-height: 28.85px; word-wrap: break-word">Login </span></div>
+    <div style="width: 192px; height: 24px; left: 94px; top: 457px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.87); font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">or login with email</div>
+    <div style="width: 220px; height: 52px; left: 84px; top: 749px; position: absolute; background: #E74500; border-radius: 80px"></div>
+    <div style="left: 167px; top: 757px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.87); font-size: 20px; font-family: Inter; font-weight: 400; line-height: 36.06px; word-wrap: break-word">Next</div>
+    <div style="width: 220px; height: 50px; left: 80px; top: 363px; position: absolute">
+        <img style="width: 52.38px; height: 50px; left: 0px; top: 0px; position: absolute; border-radius: 9999px" src="https://via.placeholder.com/52x50" />
+        <img style="width: 52.38px; height: 50px; left: 82.86px; top: 0px; position: absolute; border-radius: 9999px" src="https://via.placeholder.com/52x50" />
+        <img style="width: 52.38px; height: 50px; left: 167.62px; top: -0px; position: absolute; border-radius: 9999px" src="https://via.placeholder.com/52x50" />
+    </div>
+    <div style="width: 360px; height: 52px; left: 10px; top: 545px; position: absolute; background: rgba(165.75, 165.75, 165.75, 0.56); border-radius: 20px"></div>
+    <div style="left: 25px; top: 557px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.50); font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">email</div>
+    <div style="width: 360px; height: 52px; left: 9px; top: 609px; position: absolute; background: rgba(165.75, 165.75, 165.75, 0.56); border-radius: 20px"></div>
+    <div style="left: 29px; top: 621px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.50); font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">password</div>
+    <div style="width: 24px; height: 24px; left: 329px; top: 623px; position: absolute">
+        <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute"></div>
+        <div style="width: 4px; height: 4px; left: 10px; top: 10px; position: absolute; border: 2px rgba(0, 0, 0, 0.50) solid"></div>
+        <div style="width: 18px; height: 12px; left: 3px; top: 6px; position: absolute; border: 2px rgba(0, 0, 0, 0.50) solid"></div>
+    </div>
+    <div style="width: 237px; height: 22px; left: 59px; top: 705px; position: absolute; text-align: center; color: black; font-size: 16px; font-family: Maven Pro; font-weight: 400; line-height: 28.85px; word-wrap: break-word">I agree with terms and policies</div>
+    <div style="width: 21px; height: 19px; left: 38px; top: 710px; position: absolute; background: #A6A6A6"></div>
+    <div style="width: 400px; height: 34px; left: 3px; top: 2px; position: absolute">
+        <div style="width: 400px; height: 34px; left: 0px; top: 0px; position: absolute; background: rgba(34, 34, 39, 0)"></div>
+        <div style="width: 60px; height: 14.61px; left: 17.78px; top: 9.74px; position: absolute">
+            <div style="width: 60px; height: 14.61px; left: 0px; top: 0px; position: absolute; background: rgba(34, 34, 39, 0)"></div>
+            <div style="width: 51.11px; height: 8.12px; left: 4.44px; top: 3.25px; position: absolute; background: rgba(34, 34, 39, 0)"></div>
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 268.89px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <img style="width: 16.67px; height: 12.17px; left: 1.67px; top: 1.22px; position: absolute" src="https://via.placeholder.com/17x12" />
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 338.89px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <img style="width: 13.11px; height: 9.58px; left: 3.44px; top: 2.52px; position: absolute" src="https://via.placeholder.com/13x10" />
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 315.56px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <img style="width: 17.13px; height: 9.13px; left: 1.33px; top: 2.39px; position: absolute" src="https://via.placeholder.com/17x9" />
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 292.22px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <div style="width: 11.11px; height: 11.36px; left: 4.44px; top: 1.62px; position: absolute; background: #222227"></div>
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 362.22px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <div style="width: 16.67px; height: 8.52px; left: 1.67px; top: 3.04px; position: absolute; background: #222227"></div>
+        </div>
+    </div>
+</div>
+
+// Sign up
+color: #F86800;
+ font-size: 30px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 54.10px;
+ word-wrap: break-word
+---
+// please register with email & sign up through our app
+color: rgba(0, 0, 0, 0.87);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Enter via social networks
+color: rgba(0, 0, 0, 0.87);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Already have an account ? 
+color: rgba(0, 0, 0, 0.87);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Login <br/>
+color: #F5630D;
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 700;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// <br/>Already have an account ? 
+color: rgba(0, 0, 0, 0.87);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Login 
+color: #E74500;
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 700;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Already have an account ? 
+color: rgba(0, 0, 0, 0.87);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Login 
+color: #E74500;
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 700;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// or login with email
+color: rgba(0, 0, 0, 0.87);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Next
+color: rgba(0, 0, 0, 0.87);
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 36.06px;
+ word-wrap: break-word
+---
+// email
+color: rgba(0, 0, 0, 0.50);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// password
+color: rgba(0, 0, 0, 0.50);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// I agree with terms and policies
+color: black;
+ font-size: 16px;
+ font-family: Maven Pro;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+
+<div style="width: 100%; height: 100%; position: relative; background: white">
+    <div style="width: 400px; height: 180.50px; left: 0px; top: -12.50px; position: absolute; background: linear-gradient(180deg, #E74500 0%, #F5630D 19%, #FF6F06 54%)"></div>
+    <div style="width: 232px; height: 45px; left: -32px; top: 168px; position: absolute; text-align: center; color: #F86800; font-size: 30px; font-family: Inter; font-weight: 400; line-height: 54.10px; word-wrap: break-word">Sign up</div>
+    <div style="width: 310px; height: 24px; left: 35px; top: 847px; position: absolute; text-align: center"><span style="color: rgba(0, 0, 0, 0.87); font-size: 16px; font-family: Inter; font-weight: 400; line-height: 28.85px; word-wrap: break-word">Already have an account ? </span><span style="color: #E74500; font-size: 16px; font-family: Inter; font-weight: 800; line-height: 28.85px; word-wrap: break-word">Login </span></div>
+    <div style="width: 220px; height: 52px; left: 84px; top: 749px; position: absolute; background: #E74500; border-radius: 80px"></div>
+    <div style="width: 360px; height: 52px; left: 15px; top: 253px; position: absolute; background: rgba(165.75, 165.75, 165.75, 0.56); border-radius: 20px"></div>
+    <div style="width: 360px; height: 52px; left: 14px; top: 317px; position: absolute; background: rgba(165.75, 165.75, 165.75, 0.56); border-radius: 20px"></div>
+    <div style="width: 259px; height: 52px; left: 116px; top: 392px; position: absolute; background: rgba(165.75, 165.75, 165.75, 0.56); border-radius: 20px"></div>
+    <div style="width: 83px; height: 52px; left: 20px; top: 393px; position: absolute; background: rgba(165.75, 165.75, 165.75, 0.56); border-radius: 20px"></div>
+    <div style="left: 32px; top: 329px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.50); font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">last name</div>
+    <div style="left: 31px; top: 265px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.50); font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">first name</div>
+    <img style="width: 31px; height: 21px; left: 30px; top: 409px; position: absolute; border-radius: 8px" src="https://via.placeholder.com/31x21" />
+    <div style="width: 51px; height: 0px; left: 67px; top: 393px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px rgba(0, 0, 0, 0.30) solid"></div>
+    <div style="width: 51px; height: 0px; left: 178px; top: 392px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px rgba(0, 0, 0, 0.30) solid"></div>
+    <div style="width: 24px; height: 24px; left: 70px; top: 409px; position: absolute">
+        <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute"></div>
+        <div style="width: 12px; height: 6px; left: 6px; top: 9px; position: absolute; border: 2px rgba(0, 0, 0, 0.50) solid"></div>
+    </div>
+    <div style="width: 31px; height: 23px; left: 133px; top: 408px; position: absolute; text-align: center; color: black; font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">91+</div>
+    <div style="width: 360px; height: 52px; left: 15px; top: 468px; position: absolute; background: rgba(165.75, 165.75, 165.75, 0.56); border-radius: 20px"></div>
+    <div style="left: 26px; top: 479px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.50); font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">confirm password</div>
+    <div style="width: 24px; height: 24px; left: 338px; top: 481px; position: absolute">
+        <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute"></div>
+        <div style="width: 4px; height: 4px; left: 10px; top: 10px; position: absolute; border: 2px rgba(0, 0, 0, 0.50) solid"></div>
+        <div style="width: 18px; height: 12px; left: 3px; top: 6px; position: absolute; border: 2px rgba(0, 0, 0, 0.50) solid"></div>
+    </div>
+    <div style="left: 173px; top: 757px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.87); font-size: 20px; font-family: Inter; font-weight: 400; line-height: 36.06px; word-wrap: break-word">Next</div>
+    <div style="width: 400px; height: 34px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 400px; height: 34px; left: 0px; top: 0px; position: absolute; background: rgba(34, 34, 39, 0)"></div>
+        <div style="width: 60px; height: 14.61px; left: 17.78px; top: 9.74px; position: absolute">
+            <div style="width: 60px; height: 14.61px; left: 0px; top: 0px; position: absolute; background: rgba(34, 34, 39, 0)"></div>
+            <div style="width: 51.11px; height: 8.12px; left: 4.44px; top: 3.25px; position: absolute; background: rgba(34, 34, 39, 0)"></div>
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 268.89px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <img style="width: 16.67px; height: 12.17px; left: 1.67px; top: 1.22px; position: absolute" src="https://via.placeholder.com/17x12" />
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 338.89px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <img style="width: 13.11px; height: 9.58px; left: 3.44px; top: 2.52px; position: absolute" src="https://via.placeholder.com/13x10" />
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 315.56px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <img style="width: 17.13px; height: 9.13px; left: 1.33px; top: 2.39px; position: absolute" src="https://via.placeholder.com/17x9" />
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 292.22px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <div style="width: 11.11px; height: 11.36px; left: 4.44px; top: 1.62px; position: absolute; background: #222227"></div>
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 362.22px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <div style="width: 16.67px; height: 8.52px; left: 1.67px; top: 3.04px; position: absolute; background: #222227"></div>
+        </div>
+    </div>
+</div>
+
+
+// Sign up
+color: #F86800;
+ font-size: 30px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 54.10px;
+ word-wrap: break-word
+---
+// Already have an account ? 
+color: rgba(0, 0, 0, 0.87);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Login 
+color: #E74500;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 800;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// last name
+color: rgba(0, 0, 0, 0.50);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// first name
+color: rgba(0, 0, 0, 0.50);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// 91+
+color: black;
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// confirm password
+color: rgba(0, 0, 0, 0.50);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Next
+color: rgba(0, 0, 0, 0.87);
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 36.06px;
+ word-wrap: break-word
+
+<div style="width: 100%; height: 100%; position: relative; background: white">
+    <div style="width: 400px; height: 180.50px; left: 0px; top: -12.50px; position: absolute; background: linear-gradient(180deg, #E74500 0%, #F5630D 19%, #FF6F06 54%)"></div>
+    <div style="width: 232px; height: 45px; left: -32px; top: 168px; position: absolute; text-align: center; color: #F86800; font-size: 30px; font-family: Inter; font-weight: 400; line-height: 54.10px; word-wrap: break-word">Sign up</div>
+    <div style="width: 310px; height: 24px; left: 35px; top: 847px; position: absolute; text-align: center"><span style="color: rgba(0, 0, 0, 0.87); font-size: 16px; font-family: Inter; font-weight: 400; line-height: 28.85px; word-wrap: break-word">Already have an account ? </span><span style="color: #E74500; font-size: 16px; font-family: Inter; font-weight: 800; line-height: 28.85px; word-wrap: break-word">Login </span></div>
+    <div style="width: 220px; height: 52px; left: 84px; top: 749px; position: absolute; background: #E74500; border-radius: 80px"></div>
+    <div style="left: 173px; top: 757px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.87); font-size: 20px; font-family: Inter; font-weight: 400; line-height: 36.06px; word-wrap: break-word">Next</div>
+    <div style="left: 159px; top: 481px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.87); font-size: 20px; font-family: Inter; font-weight: 400; line-height: 36.06px; word-wrap: break-word">Verify</div>
+    <div style="width: 323px; height: 49px; left: 30px; top: 252px; position: absolute; text-align: center; color: black; font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">verify your email id with otp code sent to your registered email</div>
+    <div style="width: 60px; height: 52px; left: 0px; top: 332px; position: absolute; background: rgba(165.75, 165.75, 165.75, 0.56); border-radius: 20px"></div>
+    <div style="width: 60px; height: 52px; left: 340px; top: 332px; position: absolute; background: rgba(165.75, 165.75, 165.75, 0.56); border-radius: 20px"></div>
+    <div style="width: 60px; height: 52px; left: 274px; top: 332px; position: absolute; background: rgba(165.75, 165.75, 165.75, 0.56); border-radius: 20px"></div>
+    <div style="width: 60px; height: 52px; left: 209px; top: 332px; position: absolute; background: rgba(165.75, 165.75, 165.75, 0.56); border-radius: 20px"></div>
+    <div style="width: 60px; height: 52px; left: 134px; top: 332px; position: absolute; background: rgba(165.75, 165.75, 165.75, 0.56); border-radius: 20px"></div>
+    <div style="width: 60px; height: 52px; left: 65px; top: 332px; position: absolute; background: rgba(165.75, 165.75, 165.75, 0.56); border-radius: 20px"></div>
+    <div style="left: 25px; top: 358px; position: absolute; text-align: center; color: black; font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">_</div>
+    <div style="width: 25px; left: 387px; top: 358px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; text-align: center; color: black; font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">_</div>
+    <div style="left: 304px; top: 358px; position: absolute; text-align: center; color: black; font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">_</div>
+    <div style="left: 238px; top: 360px; position: absolute; text-align: center; color: black; font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">_</div>
+    <div style="left: 159px; top: 358px; position: absolute; text-align: center; color: black; font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">_</div>
+    <div style="width: 9px; left: 100px; top: 360px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; text-align: center; color: black; font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">_</div>
+    <div style="left: 289px; top: 400px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.50); font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">Resend code</div>
+    <div style="width: 400px; height: 34px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 400px; height: 34px; left: 0px; top: 0px; position: absolute; background: rgba(34, 34, 39, 0)"></div>
+        <div style="width: 60px; height: 14.61px; left: 17.78px; top: 9.74px; position: absolute">
+            <div style="width: 60px; height: 14.61px; left: 0px; top: 0px; position: absolute; background: rgba(34, 34, 39, 0)"></div>
+            <div style="width: 51.11px; height: 8.12px; left: 4.44px; top: 3.25px; position: absolute; background: rgba(34, 34, 39, 0)"></div>
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 268.89px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <img style="width: 16.67px; height: 12.17px; left: 1.67px; top: 1.22px; position: absolute" src="https://via.placeholder.com/17x12" />
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 338.89px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <img style="width: 13.11px; height: 9.58px; left: 3.44px; top: 2.52px; position: absolute" src="https://via.placeholder.com/13x10" />
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 315.56px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <img style="width: 17.13px; height: 9.13px; left: 1.33px; top: 2.39px; position: absolute" src="https://via.placeholder.com/17x9" />
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 292.22px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <div style="width: 11.11px; height: 11.36px; left: 4.44px; top: 1.62px; position: absolute; background: #222227"></div>
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 362.22px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <div style="width: 16.67px; height: 8.52px; left: 1.67px; top: 3.04px; position: absolute; background: #222227"></div>
+        </div>
+    </div>
+</div>
+
+// Sign up
+color: #F86800;
+ font-size: 30px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 54.10px;
+ word-wrap: break-word
+---
+// Already have an account ? 
+color: rgba(0, 0, 0, 0.87);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Login 
+color: #E74500;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 800;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Next
+color: rgba(0, 0, 0, 0.87);
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 36.06px;
+ word-wrap: break-word
+---
+// Verify
+color: rgba(0, 0, 0, 0.87);
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 36.06px;
+ word-wrap: break-word
+---
+// verify your email id with otp code sent to your registered email
+color: black;
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// _
+color: black;
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// _
+color: black;
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// _
+color: black;
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// _
+color: black;
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// _
+color: black;
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// _
+color: black;
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Resend code
+color: rgba(0, 0, 0, 0.50);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+
+<div style="width: 100%; height: 100%; position: relative; background: white">
+    <div style="width: 400px; height: 180.50px; left: 0px; top: 0px; position: absolute; background: linear-gradient(180deg, #E74500 0%, #F5630D 19%, #FF6F06 54%)"></div>
+    <img style="width: 277px; height: 99px; left: 62px; top: 254px; position: absolute" src="https://via.placeholder.com/277x99" />
+    <div style="width: 323px; height: 49px; left: 32px; top: 385px; position: absolute; text-align: center; color: black; font-size: 30px; font-family: Jomolhari; font-weight: 400; line-height: 54.10px; word-wrap: break-word">You have successfully registered to our app!!!</div>
+    <div style="width: 323px; height: 49px; left: 32px; top: 550px; position: absolute; text-align: center; color: black; font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">kindly login in to see the app , its features and components</div>
+    <div style="width: 220px; height: 52px; left: 90px; top: 751px; position: absolute; background: #E74500; border-radius: 80px"></div>
+    <div style="left: 174px; top: 759px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.87); font-size: 20px; font-family: Inter; font-weight: 400; line-height: 36.06px; word-wrap: break-word">Login</div>
+</div>
+
+// Welcome
+color: #F86800;
+ font-size: 30px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 54.10px;
+ word-wrap: break-word
+---
+// please login or signup to continue through our app
+color: rgba(0, 0, 0, 0.87);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Enter via social networks
+color: rgba(0, 0, 0, 0.87);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Already have an account ? 
+color: rgba(0, 0, 0, 0.87);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Login 
+color: #E74500;
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 700;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// or login with email
+color: rgba(0, 0, 0, 0.87);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Sign up
+color: rgba(0, 0, 0, 0.87);
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 36.06px;
+ word-wrap: break-word
+
+<div style="width: 100%; height: 100%; position: relative; background: white">
+    <div style="width: 400px; height: 180.50px; left: 0px; top: 0px; position: absolute; background: linear-gradient(180deg, #E74500 0%, #F5630D 19%, #FF6F06 54%)"></div>
+    <img style="width: 277px; height: 99px; left: 62px; top: 254px; position: absolute" src="https://via.placeholder.com/277x99" />
+    <div style="width: 323px; height: 49px; left: 32px; top: 385px; position: absolute; text-align: center; color: black; font-size: 30px; font-family: Jomolhari; font-weight: 400; line-height: 54.10px; word-wrap: break-word">You have successfully registered to our app!!!</div>
+    <div style="width: 323px; height: 49px; left: 32px; top: 550px; position: absolute; text-align: center; color: black; font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">kindly login in to see the app , its features and components</div>
+    <div style="width: 220px; height: 52px; left: 90px; top: 751px; position: absolute; background: #E74500; border-radius: 80px"></div>
+    <div style="left: 174px; top: 759px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.87); font-size: 20px; font-family: Inter; font-weight: 400; line-height: 36.06px; word-wrap: break-word">Login</div>
+</div>
+
+// Welcome
+color: #F86800;
+ font-size: 30px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 54.10px;
+ word-wrap: break-word
+---
+// please login or signup to continue through our app
+color: rgba(0, 0, 0, 0.87);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Enter via social networks
+color: rgba(0, 0, 0, 0.87);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Already have an account ? 
+color: rgba(0, 0, 0, 0.87);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Login 
+color: #E74500;
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 700;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// or login with email
+color: rgba(0, 0, 0, 0.87);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Sign up
+color: rgba(0, 0, 0, 0.87);
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 36.06px;
+ word-wrap: break-word
+
+<div style="width: 100%; height: 100%; position: relative; background: white">
+    <div style="width: 220px; height: 52px; left: 90px; top: 751px; position: absolute; background: #E74500; border-radius: 80px"></div>
+    <div style="left: 174px; top: 759px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.87); font-size: 20px; font-family: Inter; font-weight: 400; line-height: 36.06px; word-wrap: break-word">Login</div>
+    <img style="width: 283px; height: 207px; left: 52px; top: -164px; position: absolute; border-radius: 40px" src="https://via.placeholder.com/283x207" />
+    <img style="width: 283px; height: 207px; left: 155px; top: -37px; position: absolute; border-radius: 80px" src="https://via.placeholder.com/283x207" />
+    <img style="width: 283px; height: 138px; left: -37px; top: 32px; position: absolute; border-radius: 80px" src="https://via.placeholder.com/283x138" />
+    <img style="width: 283px; height: 207px; left: -197px; top: -103px; position: absolute; border-radius: 40px" src="https://via.placeholder.com/283x207" />
+    <img style="width: 283px; height: 107px; left: 117px; top: 63px; position: absolute; border-radius: 40px" src="https://via.placeholder.com/283x107" />
+    <div style="width: 192px; height: 24px; left: 103px; top: 307px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.87); font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">Enter via social networks</div>
+    <div style="width: 192px; height: 24px; left: 98px; top: 464px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.87); font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">or login with email</div>
+    <div style="width: 220px; height: 50px; left: 84px; top: 370px; position: absolute">
+        <img style="width: 52.38px; height: 50px; left: 0px; top: 0px; position: absolute; border-radius: 9999px" src="https://via.placeholder.com/52x50" />
+        <img style="width: 52.38px; height: 50px; left: 82.86px; top: 0px; position: absolute; border-radius: 9999px" src="https://via.placeholder.com/52x50" />
+        <img style="width: 52.38px; height: 50px; left: 167.62px; top: -0px; position: absolute; border-radius: 9999px" src="https://via.placeholder.com/52x50" />
+    </div>
+    <div style="width: 360px; height: 52px; left: 14px; top: 552px; position: absolute; background: rgba(165.75, 165.75, 165.75, 0.56); border-radius: 20px"></div>
+    <div style="left: 29px; top: 564px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.50); font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">email</div>
+    <div style="width: 360px; height: 52px; left: 13px; top: 616px; position: absolute; background: rgba(165.75, 165.75, 165.75, 0.56); border-radius: 20px"></div>
+    <div style="left: 33px; top: 628px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.50); font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">password</div>
+    <div style="width: 232px; height: 45px; left: -34px; top: 183px; position: absolute; text-align: center; color: #F86800; font-size: 30px; font-family: Inter; font-weight: 400; line-height: 54.10px; word-wrap: break-word">Login</div>
+    <div style="width: 24px; height: 24px; left: 335px; top: 635px; position: absolute">
+        <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute"></div>
+        <div style="width: 4px; height: 4px; left: 10px; top: 10px; position: absolute; border: 2px rgba(0, 0, 0, 0.50) solid"></div>
+        <div style="width: 18px; height: 12px; left: 3px; top: 6px; position: absolute; border: 2px rgba(0, 0, 0, 0.50) solid"></div>
+    </div>
+    <div style="width: 192px; height: 24px; left: 208px; top: 680px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.87); font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">forgot password ?</div>
+    <div style="width: 400px; height: 34px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 400px; height: 34px; left: 0px; top: 0px; position: absolute; background: rgba(34, 34, 39, 0)"></div>
+        <div style="width: 60px; height: 14.61px; left: 17.78px; top: 9.74px; position: absolute">
+            <div style="width: 60px; height: 14.61px; left: 0px; top: 0px; position: absolute; background: rgba(34, 34, 39, 0)"></div>
+            <div style="width: 51.11px; height: 8.12px; left: 4.44px; top: 3.25px; position: absolute; background: rgba(34, 34, 39, 0)"></div>
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 268.89px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <img style="width: 16.67px; height: 12.17px; left: 1.67px; top: 1.22px; position: absolute" src="https://via.placeholder.com/17x12" />
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 338.89px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <img style="width: 13.11px; height: 9.58px; left: 3.44px; top: 2.52px; position: absolute" src="https://via.placeholder.com/13x10" />
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 315.56px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <img style="width: 17.13px; height: 9.13px; left: 1.33px; top: 2.39px; position: absolute" src="https://via.placeholder.com/17x9" />
+        </div>
+        <div style="width: 20px; height: 14.61px; padding-left: 4.44px; padding-right: 4.44px; padding-top: 1.62px; padding-bottom: 1.62px; left: 292.22px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0); justify-content: center; align-items: center; display: inline-flex">
+            <div style="width: 11.11px; height: 11.36px; background: #222227"></div>
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 362.22px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <div style="width: 16.67px; height: 8.52px; left: 1.67px; top: 3.04px; position: absolute; background: #222227"></div>
+        </div>
+    </div>
+</div>
+
+
+// You have successfully registered to our app!!!
+color: black;
+ font-size: 30px;
+ font-family: Jomolhari;
+ font-weight: 400;
+ line-height: 54.10px;
+ word-wrap: break-word
+---
+// kindly login in to see the app , its features and components
+color: black;
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Login
+color: rgba(0, 0, 0, 0.87);
+ font-size: 20px;
  font-family: Inter;
  font-weight: 400;
  line-height: 36.06px;
