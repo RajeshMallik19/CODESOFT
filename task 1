@@ -1,0 +1,97 @@
+# Codesoft
+My First UI/UX Designing Internship
+
+<div style="width: 100%; height: 100%; position: relative; background: white">
+    <div style="width: 400px; height: 180.50px; left: 0px; top: -12.50px; position: absolute; background: linear-gradient(180deg, #E74500 0%, #F5630D 19%, #FF6F06 54%)"></div>
+    <div style="width: 232px; height: 45px; left: -32px; top: 168px; position: absolute; text-align: center; color: #F86800; font-size: 30px; font-family: Josefin Sans; font-weight: 400; line-height: 54.10px; word-wrap: break-word">Welcome</div>
+    <div style="width: 382px; height: 60px; left: 9px; top: 235px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.87); font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">please login or signup to continue through our app</div>
+    <div style="width: 192px; height: 24px; left: 93px; top: 598px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.87); font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">Enter via social networks</div>
+    <div style="width: 310px; height: 24px; left: 35px; top: 847px; position: absolute; text-align: center"><span style="color: rgba(0, 0, 0, 0.87); font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">Already have an account ? </span><span style="color: #E74500; font-size: 16px; font-family: Josefin Sans; font-weight: 700; line-height: 28.85px; word-wrap: break-word">Login </span></div>
+    <div style="width: 192px; height: 24px; left: 97px; top: 716px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.87); font-size: 16px; font-family: Josefin Sans; font-weight: 400; line-height: 28.85px; word-wrap: break-word">or login with email</div>
+    <div style="width: 220px; height: 52px; left: 84px; top: 749px; position: absolute; background: #E74500; border-radius: 80px"></div>
+    <img style="width: 400px; height: 294px; left: 0px; top: 282px; position: absolute" src="https://via.placeholder.com/400x294" />
+    <div style="width: 220px; height: 50px; left: 84px; top: 644px; position: absolute">
+        <img style="width: 52.38px; height: 50px; left: 0px; top: 0px; position: absolute; border-radius: 9999px" src="https://via.placeholder.com/52x50" />
+        <img style="width: 52.38px; height: 50px; left: 82.86px; top: 0px; position: absolute; border-radius: 9999px" src="https://via.placeholder.com/52x50" />
+        <img style="width: 52.38px; height: 50px; left: 167.62px; top: -0px; position: absolute; border-radius: 9999px" src="https://via.placeholder.com/52x50" />
+    </div>
+    <div style="width: 192px; height: 24px; left: 97px; top: 757px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.87); font-size: 20px; font-family: Inter; font-weight: 400; line-height: 36.06px; word-wrap: break-word">Sign up</div>
+    <div style="width: 400px; height: 34px; left: 9px; top: 0px; position: absolute">
+        <div style="width: 400px; height: 34px; left: 0px; top: 0px; position: absolute; background: rgba(34, 34, 39, 0)"></div>
+        <div style="width: 60px; height: 14.61px; left: 17.78px; top: 9.74px; position: absolute">
+            <div style="width: 60px; height: 14.61px; left: 0px; top: 0px; position: absolute; background: rgba(34, 34, 39, 0)"></div>
+            <div style="width: 51.11px; height: 8.12px; left: 4.44px; top: 3.25px; position: absolute; background: rgba(34, 34, 39, 0)"></div>
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 268.89px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <img style="width: 16.67px; height: 12.17px; left: 1.67px; top: 1.22px; position: absolute" src="https://via.placeholder.com/17x12" />
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 338.89px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <img style="width: 13.11px; height: 9.58px; left: 3.44px; top: 2.52px; position: absolute" src="https://via.placeholder.com/13x10" />
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 315.56px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <img style="width: 17.13px; height: 9.13px; left: 1.33px; top: 2.39px; position: absolute" src="https://via.placeholder.com/17x9" />
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 292.22px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <div style="width: 11.11px; height: 11.36px; left: 4.44px; top: 1.62px; position: absolute; background: #222227"></div>
+        </div>
+        <div style="width: 20px; height: 14.61px; left: 362.22px; top: 9.74px; position: absolute; background: rgba(34, 34, 39, 0)">
+            <div style="width: 16.67px; height: 8.52px; left: 1.67px; top: 3.04px; position: absolute; background: #222227"></div>
+        </div>
+    </div>
+</div>
+
+// Welcome
+color: #F86800;
+ font-size: 30px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 54.10px;
+ word-wrap: break-word
+---
+// please login or signup to continue through our app
+color: rgba(0, 0, 0, 0.87);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Enter via social networks
+color: rgba(0, 0, 0, 0.87);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Already have an account ? 
+color: rgba(0, 0, 0, 0.87);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Login 
+color: #E74500;
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 700;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// or login with email
+color: rgba(0, 0, 0, 0.87);
+ font-size: 16px;
+ font-family: Josefin Sans;
+ font-weight: 400;
+ line-height: 28.85px;
+ word-wrap: break-word
+---
+// Sign up
+color: rgba(0, 0, 0, 0.87);
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 36.06px;
+ word-wrap: break-word
